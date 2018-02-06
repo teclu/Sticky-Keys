@@ -35,8 +35,8 @@ __________      ___. /\         __________
 	  Have fun and good luck!
 -----------------------------------------------------------------------------------------	
 >>>>> TEAM MEMBERS:
-	 - Kim Jong Un:     Ang Zhan Yu
-	 - Finger Meister:  Fong Wei Zheng
-	 - Jibbers Crist:   Lewis Koh
-	 - Ruckus Maker:    Stanley Tay
-	 - Mahoujo Shoujo:  Victoria Lim
+	 - Ang Zhan Yu
+	 - Fong Wei Zheng
+	 - Lewis Koh
+	 - Stanley Tay
+	 - Victoria Lim
